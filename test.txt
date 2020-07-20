@@ -7,6 +7,8 @@ added some text 2
 added new test branch 
 update from github
 update from github 2
+feature_alpha
+added an alpha feature
+added an alpha feature
+added some code
 
-
-added some code for conflict
