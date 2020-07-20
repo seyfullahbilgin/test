@@ -2,3 +2,4 @@ hello world
 merhaba dünya
 test branch
 user: seyfx
+added some texts
